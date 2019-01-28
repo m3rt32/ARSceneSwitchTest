@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/arfoundation-samples/Scenes/AR.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    guid: 63d2b059a06d5d846b59d8f909193fa6
   - enabled: 1
     path: Assets/arfoundation-samples/Scenes/AR2.unity
     guid: 69576256c13336c438a0e0e937d875f1
